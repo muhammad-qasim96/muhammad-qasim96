@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammad Qasim
 ===============================
 
-Full Stack Web Developer
+Front End Developer
 ------------------------
 
 * 🌍  I'm based in Iraq - Baghdad
